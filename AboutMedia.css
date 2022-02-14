@@ -1,0 +1,61 @@
+@media only screen and (max-width: 1500px ) {
+    .nav_bar img {
+        width: 200px;
+        height: 60px;
+        margin-left: 18%;
+        margin-right: 12%;
+    }
+
+    .topp{
+        margin-left: 10%;
+    }
+    .toppCont{
+        margin-right: 5%;
+    }
+    .toppContZag{
+        font-size: 60px;
+        line-height: 88px;
+        color: #FFFFFF;
+    }
+    .aaa{
+        width: 500px;
+        margin-top: 5%;
+    }
+    .gif2{
+        margin-top: 100%;
+    }
+    .midInfoToptxtt{
+        margin-left: 50%;
+        margin-bottom: 3%;
+        width: 45%;
+        font-size: 18px;
+        color: rgba(233, 228, 254, 1);
+    }
+    .midInfoCentrTxtt{
+        width: 36%;
+        margin-left: 15%;
+        font-size: 16px;
+        line-height: 24px;
+        color: #D0D0F9;
+    }
+    .midInfoCentrtxtA{
+        width: 70%;
+        margin-top: 5%;
+        padding-left: 15%;
+        padding-top: 2%;
+        padding-bottom: 2%;
+        border-left: 3px solid #4E2DD2;;
+        font-size: 20px;
+        color: rgba(255, 255, 255, 1);
+    }
+    .contactInfo1{
+        font-size: 22px;
+
+    }
+    .contactInfo2{
+        font-size: 22px;
+    }
+    footer{
+        margin-top: 25%;
+    }
+}
